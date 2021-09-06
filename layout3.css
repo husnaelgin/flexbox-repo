@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  width: 550px;
+  justify-content: space-between;
+}
+.item1 {
+  width: 70px;
+  height: 600px;
+  background-color: black;
+  border: 2px solid grey;
+}
+.item2 {
+  flex-basis: 120px;
+  flex-grow: 0.5;
+  height: 600px;
+  border: 2px solid grey;
+  background-color: black;
+}
+.item3 {
+  width: 70px;
+  height: 600px;
+  background-color: black;
+  border: 2px solid grey;
+}

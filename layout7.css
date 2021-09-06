@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  width: 450px;
+  height: 1800px;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.item1 {
+  width: 100px;
+  height: 550px;
+  flex-grow: 0.2;
+  background-color: black;
+  border: 2px solid grey;
+}
+.item2 {
+  width: 100px;
+  height: 550px;
+  background-color: black;
+  flex-grow: 0.2;
+  border: 2px solid grey;
+}
+.item3 {
+  width: 100px;
+  height: 550px;
+  background-color: black;
+  flex-grow: 0.2;
+  border: 2px solid grey;
+}

@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  width: 450px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.item2 {
+  width: 500px;
+  height: 100px;
+  background-color: black;
+  margin-bottom: 10px;
+  border: 2px solid grey;
+}
+.item3 {
+  width: 100px;
+  height: 400px;
+  background-color: black;
+  border: 2px solid grey;
+}
+.item4 {
+  flex-basis: 160px;
+  flex-grow: 0.9;
+  height: 400px;
+  background-color: black;
+  border: 2px solid grey;
+}

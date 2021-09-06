@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+
+  width: 400px;
+  justify-content: space-between;
+}
+
+.item1 {
+  flex: basis 130px;
+  flex-grow: 0.8;
+  background-color: black;
+  height: 600px;
+  border: 2px solid grey;
+}
+.item2 {
+  width: 100px;
+  background-color: black;
+  height: 600px;
+  border: 2px solid grey;
+}

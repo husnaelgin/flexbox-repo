@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  width: 450px;
+  flex-wrap: wrap;
+  height: 600px;
+}
+.item1 {
+  width: 500px;
+  height: 100px;
+  background-color: black;
+}
+.item2 {
+  width: 100px;
+  height: 260px;
+  background-color: black;
+  margin-right: 16px;
+}
+.item3 {
+  width: 100px;
+  height: 260px;
+  background-color: black;
+  margin-right: 16px;
+}
+.item4 {
+  width: 100px;
+  height: 260px;
+  background-color: black;
+  margin-right: 16px;
+}
+.item5 {
+  width: 100px;
+  height: 260px;
+  background-color: black;
+}
+.item6 {
+  width: 500px;
+  height: 100px;
+  background-color: black;
+}

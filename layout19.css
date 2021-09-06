@@ -1,0 +1,38 @@
+.container1 {
+  display: inline-flex;
+}
+.child1 {
+  width: 100px;
+  height: 535px;
+  background-color: black;
+}
+.container2 {
+  display: inline-flex;
+  width: 250px;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 8px;
+  margin-left: 20px;
+  height: 600px;
+}
+.child2 {
+  width: 230px;
+  height: 100px;
+  background-color: black;
+}
+.child3 {
+  width: 100px;
+  height: 200px;
+  background-color: black;
+  margin-right: 25px;
+}
+.child4 {
+  width: 100px;
+  height: 200px;
+  background-color: black;
+}
+.child5 {
+  width: 230px;
+  height: 100px;
+  background-color: black;
+}
